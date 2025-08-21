@@ -16,7 +16,6 @@ Focus areas:
 
 ## 📊 Dashboard Preview
 ![Dashboard Overview](https://github.com/user-attachments/assets/aab9cc1f-7ec6-43d3-917f-037fd7e5fe23)
-![Slides Preview](https://github.com/user-attachments/assets/1903e05d-d568-406d-9f06-1f1fc07407c7)
 
 ---
 
@@ -46,9 +45,4 @@ Focus areas:
 2. Open in **Power BI Desktop**.  
 3. Explore filters (Outlet Type, Tier, Item Type, Fat Content, etc.).
 
----
 
-## 🔮 Future Enhancements
-- Forecasting sales by category/outlet
-- Deeper drill-downs & bookmarks
-- Direct SQL data source integration
