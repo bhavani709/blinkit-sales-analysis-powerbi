@@ -1,43 +1,54 @@
-Blinkit Sales Analysis using Power BI
-📌 Project Overview
+# Blinkit Sales Analysis using Power BI
 
-This project analyzes Blinkit’s sales data to uncover key business insights using Power BI.
-The analysis focuses on:
+Interactive Power BI dashboard analyzing Blinkit sales, outlet performance, and product trends to uncover business insights.
 
-Sales trends across item categories
+---
 
-Performance by outlet types & city tiers
+## 📌 Project Overview
+This project analyzes **Blinkit’s** sales data to uncover key business insights using **Power BI**.  
+Focus areas:
+- Sales trends across item categories
+- Performance by outlet types & city tiers
+- Customer preferences (e.g., snacks, fruits, seafood)
+- Growth opportunities in **Tier-3** cities
 
-Customer preferences (e.g., snacks, fruits, seafood)
+---
 
-Identifying growth opportunities in Tier-3 cities
+## 📊 Dashboard Preview
+![Dashboard Overview](https://github.com/user-attachments/assets/aab9cc1f-7ec6-43d3-917f-037fd7e5fe23)
+![Slides Preview](https://github.com/user-attachments/assets/1903e05d-d568-406d-9f06-1f1fc07407c7)
 
-📊 Features
+---
 
-Interactive Power BI dashboard
+## 🧰 Technologies Used
+- **Power BI** (Power Query, DAX, modeling, visuals)
+- **Excel/CSV** (data source review & cleanup)
 
-Visual breakdown of sales, items, and customer ratings
+---
 
-Actionable insights for business growth
+## 📁 Files in this Repository
+- [`Blinkit Project.pbix`](./Blinkit%20Project.pbix) — Power BI dashboard  
+- [`BlinkIT Grocery Data.xlsx`](./BlinkIT%20Grocery%20Data.xlsx) — Dataset  
+- [`Blinkit analysis using PowerBI (1).pdf`](./Blinkit%20analysis%20using%20PowerBI%20%281%29.pdf) — Presentation/PDF  
 
-📁 Files in this Repository
+---
 
-Blinkit_Sales_Analysis.pbix → Power BI Dashboard
-<img width="1261" height="726" alt="image" src="https://github.com/user-attachments/assets/aab9cc1f-7ec6-43d3-917f-037fd7e5fe23" />
+## 🚀 Insights & Recommendations
+- **Expand Supermarket Type-1 outlets** → highest sales driver  
+- **Focus on Tier-3 cities** → strongest contribution/growth potential  
+- **Stock more Snacks & Fruits** → consistently high demand  
+- **Improve weaker categories/outlets** → targeted promos & localization
 
+---
 
-Blinkit_Sales_Analysis_PPT.pptx → Presentation summary
-<img width="952" height="536" alt="image" src="https://github.com/user-attachments/assets/1903e05d-d568-406d-9f06-1f1fc07407c7" />
+## ▶️ How to Use
+1. Download **`Blinkit Project.pbix`**.  
+2. Open in **Power BI Desktop**.  
+3. Explore filters (Outlet Type, Tier, Item Type, Fat Content, etc.).
 
+---
 
-
-
-🚀 Insights & Recommendations
-
-Expand Supermarket Type-1 outlets → drives maximum sales
-
-Focus on Tier-3 cities → already contributing highest share
-
-Stock more Snacks & Fruits → highest demand categories
-
-Improve weaker outlets → marketing, discounts, local customization
+## 🔮 Future Enhancements
+- Forecasting sales by category/outlet
+- Deeper drill-downs & bookmarks
+- Direct SQL data source integration
